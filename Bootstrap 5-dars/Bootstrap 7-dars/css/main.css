@@ -1,0 +1,13 @@
+.bg-kulrang{
+    background-color: rgb(118, 109, 109);
+
+}
+.FrontEnd{
+    border: 1px solid transparent; 
+    background-color: gray;
+    border-radius: 5px;
+}
+.dropdown-menu .bg-white{
+    border: 1px solid transparent;
+}
+
